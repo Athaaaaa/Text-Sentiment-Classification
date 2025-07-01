@@ -9,8 +9,6 @@ BERT outperforms both traditional ML and other deep learning models, achieving t
 
 ## Dataset
 
-- **Name**: MELD (Multimodal EmotionLines Dataset)
-- **Source**: Dialogues from *Friends*
 - **Size**: ~13,000 utterances
 - **Labels**: Joy, Sadness, Anger, Fear, Neutral
 - **Split**: 70% Train, 15% Validation, 15% Test
