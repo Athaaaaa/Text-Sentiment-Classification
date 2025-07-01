@@ -17,7 +17,7 @@ BERT outperforms both traditional ML and other deep learning models, achieving t
 
 ---
 
-## 🛠️ System Pipeline
+## System Pipeline
 
 ### 1. Traditional Machine Learning
 - **Preprocessing**: cleaning, tokenization, stemming, negation handling
